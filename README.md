@@ -1,3 +1,4 @@
-# Vanilla-Javascript
+# Autocomplete app in Vanilla-Javascript
 
-Several vanila js apps, including modern js ES5, ES6 syntax
+vanila js app, including modern js ES5, ES6 syntax
+ES6 functions map(), filter()
